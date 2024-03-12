@@ -1,0 +1,15 @@
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/bin/Debug/net7.0/Grade_C_F
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/bin/Debug/net7.0/Grade_C_F.deps.json
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/bin/Debug/net7.0/Grade_C_F.runtimeconfig.json
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/bin/Debug/net7.0/Grade_C_F.dll
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/bin/Debug/net7.0/Grade_C_F.pdb
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/Grade_C_F.csproj.AssemblyReference.cache
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/Grade_C_F.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/Grade_C_F.AssemblyInfoInputs.cache
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/Grade_C_F.AssemblyInfo.cs
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/Grade_C_F.csproj.CoreCompileInputs.cache
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/Grade_C_F.dll
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/refint/Grade_C_F.dll
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/Grade_C_F.pdb
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/Grade_C_F.genruntimeconfig.cache
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/Grade_C_F/Grade_C_F/obj/Debug/net7.0/ref/Grade_C_F.dll
