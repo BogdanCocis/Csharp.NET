@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EE3796C3-3F2F-40D1-A651-755A7678CD51}|Default">
+  <MonoDevelop.Ide.ItemProperties.idealWeith PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="idealWeith/Program.cs">
+    <Files>
+      <File FileName="idealWeith/Program.cs" Line="8" Column="33" />
+      <File FileName="idealWeith/idealWeight.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="idealWeith">
+            <Node name="idealWeith">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
