@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WinFormsApp2_ex2
-build_property.ProjectDir = D:\FACULTATE\AN III sem 2\II\WinFormsApp2_ex2\WinFormsApp2_ex2\
+build_property.ProjectDir = \\Mac\Home\Documents\AN III\II\Lucrarea_2\WinFormsApp2_ex2\WinFormsApp2_ex2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

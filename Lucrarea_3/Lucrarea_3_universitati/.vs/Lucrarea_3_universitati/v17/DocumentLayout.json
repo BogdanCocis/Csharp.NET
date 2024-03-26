@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_3\\Lucrarea_3_universitati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A28DD01A-E2EA-4D07-91FC-90CB59AB832F}|Lucrarea_3_universitati\\Lucrarea_3_universitati.csproj|\\\\mac\\home\\documents\\an iii\\ii\\lucrarea_3\\lucrarea_3_universitati\\lucrarea_3_universitati\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28DD01A-E2EA-4D07-91FC-90CB59AB832F}|Lucrarea_3_universitati\\Lucrarea_3_universitati.csproj|\\\\mac\\home\\documents\\an iii\\ii\\lucrarea_3\\lucrarea_3_universitati\\lucrarea_3_universitati\\database1_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database1_log.ldf",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_3\\Lucrarea_3_universitati\\Lucrarea_3_universitati\\Database1_log.ldf",
+              "RelativeDocumentMoniker": "Lucrarea_3_universitati\\Database1_log.ldf",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_3\\Lucrarea_3_universitati\\Lucrarea_3_universitati\\Database1_log.ldf",
+              "RelativeToolTip": "Lucrarea_3_universitati\\Database1_log.ldf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPZSURBVEhLvVVLbBtFGP52vXFd6jaNnacd54VJqaNAQqrSFPEoVQ8gUSpVQqiHnigSElKPcACJC5U4UaqKwolDDwg4QKGiQCQIoEKrtkmato5CFMfEcfyKHb\u002B9Xu/MMJOHlU2cuD2UXx7Pauf3fI//nzHwMIMx9jC3X9pbehCEU6ffO9fQ5Gir9pupifEb31z87MNqeYb1GkWueff9L\u002B7cmsrSUkmnq0EIpTr/KpUIVYs6zRV0\u002BvGFy7S\u002B9fHXxQbKepR2p637qd62Z7FiHwO3kX\u002BOHKx9\u002BTn32R74vJgxnYa7wyFe8zQGymdKGXT\u002BQIjRdgPA\u002BTMnh5zOJkf/gGev5ZHtMJvNkGUZjBtZyidx8YciXjh4Cj0dwMhEGOmshrxKwFkjX9ShagTHD3cbOJcBzrzzyqUTJ48e3mVvgCRvEAaiRHDC9QEWr1/A9eSX6PO4oXPKJU6Y8FnXOQlCQQWbNSGXn4Wyfz5CMfgrSD4MRjShX5jAJ4JEaAGXA28gv38E\u002B57ohm8uCa8vjvHJKG7ei\u002BDvO/O4OhZEsUQqA/CiQU9NQg38hELgF6iJuygW5qHGx5H1fo6dkhfPNP8Iy\u002B1XMeb1IZMrYjGtIp4sIJbIIxLPIbyQgyYkVVJABVsxaAlMzy0PqoHymWSD8I/\u002BjtvhPhSe/A6exzrhdtnRu6cZAz0ODPa78Py\u002Bdrz4dOdSwSsCMO6fVPFULDNqabVh5/YUagLnEQjFEFzI4N9gEtOBJCZnEvBOx3F3KsYVGCHKNRAWLXfmCso6sEgkD4Xq0OuOwGq1IinsWcwjGs8gFMtgLpzCbCjFa7AJgOgEw7lea6XEUF\u002BrYyrnWVIjuqe1pQ7uzgZ43M3o3\u002BvA/l4XDvS18ebYpIsINVbf6KSEArPhQP1vMCWGOPMMEry40YQobBZzkQxmlxSkoQmiFYvMLdoqFG0eQ/PHUHS\u002BDbvNjt21VjTadqOlsQ5tThu6XI1wtzfy02xUUD5RRCfgTqzUgCetq4FiAurMYYxdHd6SiFiMJ1PlnDUAqwqWD1elOOb8BN9PDINwlpwPrty0\u002Bcd88bOVcrPJyIh4XwYQl9X9XN4vPTrKfZahaQx//NkRCU3PnNtKUrlNCeGXydrYXEhViyoWWeZnMKNa2EYVlf\u002BTUvlt9wVUVvDp16Ov3ZrtZAVVJuLaEIOxjZ1FmQmRtB2Xrrnw7V/\u002BQ9VQDPQUk7TtreN7vhoccA22dnXVKxYrk5km6QsjUiGdwmIsgXBqR3p4XBr\u002B\u002BYb/zVxBiz4QwGpyT9euQ4qyo0lT\u002BZXNQ9dL5X1ksyU16Y9eqbbx/7b\u002BH6S86ewCEsTEAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-22T12:26:24.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_3\\Lucrarea_3_universitati\\Lucrarea_3_universitati\\Form1.cs",
+              "RelativeDocumentMoniker": "Lucrarea_3_universitati\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_3\\Lucrarea_3_universitati\\Lucrarea_3_universitati\\Form1.cs [Design]",
+              "RelativeToolTip": "Lucrarea_3_universitati\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:44:19.052Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

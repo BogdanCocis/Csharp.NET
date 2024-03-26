@@ -1,28 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\",
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|d:\\facultate\\an iii sem 2\\ii\\winformsapp2_ex2\\winformsapp2_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|solutionrelative:winformsapp2_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|\\\\mac\\home\\documents\\an iii\\ii\\lucrarea_2\\winformsapp2_ex2\\winformsapp2_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\winformsapp2_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|solutionrelative:winformsapp2_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|\\\\mac\\home\\documents\\an iii\\ii\\lucrarea_2\\winformsapp2_ex2\\winformsapp2_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\winformsapp2_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|solutionrelative:winformsapp2_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|\\\\mac\\home\\documents\\an iii\\ii\\lucrarea_2\\winformsapp2_ex2\\winformsapp2_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\winformsapp2_ex2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|solutionrelative:winformsapp2_ex2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{5FFFFF02-E942-45B0-948C-3B7B17ABCC23}|WinFormsApp2_ex2\\WinFormsApp2_ex2.csproj|\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\winformsapp2_ex2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -32,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsApp2_ex2\\Program.cs",
-              "ToolTip": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Program.cs",
               "RelativeToolTip": "WinFormsApp2_ex2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.resx",
-              "DocumentMoniker": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.resx",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.resx",
               "RelativeDocumentMoniker": "WinFormsApp2_ex2\\Form1.resx",
-              "ToolTip": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.resx",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.resx",
               "RelativeToolTip": "WinFormsApp2_ex2\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-03-14T11:56:56.028Z"
@@ -55,11 +51,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2_ex2\\Form1.cs",
-              "ToolTip": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.cs",
               "RelativeToolTip": "WinFormsApp2_ex2\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAuAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T11:20:04.636Z",
               "EditorCaption": ""
@@ -67,11 +63,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2_ex2\\Form1.cs",
-              "ToolTip": "D:\\FACULTATE\\AN III sem 2\\II\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.cs [Design]",
-              "RelativeToolTip": "WinFormsApp2_ex2\\Form1.cs [Design]",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\AN III\\II\\Lucrarea_2\\WinFormsApp2_ex2\\WinFormsApp2_ex2\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp2_ex2\\Form1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T11:17:31.925Z"
             }
