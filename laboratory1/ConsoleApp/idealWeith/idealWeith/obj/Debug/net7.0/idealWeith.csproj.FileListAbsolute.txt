@@ -1,0 +1,30 @@
+/Users/bogdancocis/Projects/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith
+/Users/bogdancocis/Projects/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith.deps.json
+/Users/bogdancocis/Projects/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith.runtimeconfig.json
+/Users/bogdancocis/Projects/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith.dll
+/Users/bogdancocis/Projects/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith.pdb
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.csproj.AssemblyReference.cache
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.AssemblyInfoInputs.cache
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.AssemblyInfo.cs
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.csproj.CoreCompileInputs.cache
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.dll
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/refint/idealWeith.dll
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.pdb
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.genruntimeconfig.cache
+/Users/bogdancocis/Projects/idealWeith/idealWeith/obj/Debug/net7.0/ref/idealWeith.dll
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith.deps.json
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith.runtimeconfig.json
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith.dll
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/bin/Debug/net7.0/idealWeith.pdb
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.csproj.AssemblyReference.cache
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.AssemblyInfoInputs.cache
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.AssemblyInfo.cs
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.csproj.CoreCompileInputs.cache
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.dll
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/refint/idealWeith.dll
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.pdb
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/idealWeith.genruntimeconfig.cache
+/Users/bogdancocis/Documents/AN III/II/Laborator_1_2/ConsoleApp/idealWeith/idealWeith/obj/Debug/net7.0/ref/idealWeith.dll

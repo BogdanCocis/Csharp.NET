@@ -1,0 +1,50 @@
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Database1.mdf
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Politemnita v3.0\Sem2\II\Lab\Lab3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Database1.mdf
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinForms.E4050A35.Up2Date
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
